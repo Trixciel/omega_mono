@@ -1,0 +1,1 @@
+Le pack omega_blue de base a été crée par la team Omega, et il est creative commons, donc je le remix, mais ils ont fait tout le boulot :P
