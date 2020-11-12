@@ -101,7 +101,7 @@
             "BackgroundSelected": "757575",
             "BackgroundActive": "fafafa",
             "BackgroundSelectedAndActive": "e3e3e3",
-            "Text": "ffffff",
+            "Text": "212121",
             "TextActive": "000000"
         },
         "SubTab": {
@@ -125,7 +125,7 @@
             "CellBackground": "212121",
             "CellBackgroundActive": "4a4a4a",
             "CellText": "000000",
-            "CellTextActive": "ffffff",
+            "CellTextActive": "212121",
             "CellTextExternal": "008E1A",
             "CellTextExternalActive": "9BE570"
         },
