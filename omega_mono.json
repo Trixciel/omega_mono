@@ -9,8 +9,8 @@
         "ApproximateExpressionText": "595959",
         "Background": {
             "Hard": "212121",
-            "Apps": "fafafa",
-            "AppsSecondary": "f0f0f0"
+            "Apps": "212121",
+            "AppsSecondary": "212121"
         },
         "Toolbar": {
             "": "444444",
@@ -71,9 +71,9 @@
             "Tangent": "595959"
         },
         "SubMenu": {
-            "Background": "e0e0e0",
+            "Background": "212121",
             "Border": "fafafa",
-            "Text": "000000"
+            "Text": "ffffff"
         },
         "Toolbox": {
             "HeaderBackground": "4a4a4a",
@@ -101,7 +101,7 @@
             "BackgroundSelected": "757575",
             "BackgroundActive": "fafafa",
             "BackgroundSelectedAndActive": "e3e3e3",
-            "Text": "212121",
+            "Text": "ffffff",
             "TextActive": "000000"
         },
         "SubTab": {
@@ -124,8 +124,8 @@
             "Background": "212121",
             "CellBackground": "212121",
             "CellBackgroundActive": "4a4a4a",
-            "CellText": "000000",
-            "CellTextActive": "212121",
+            "CellText": "212121",
+            "CellTextActive": "ffffff",
             "CellTextExternal": "008E1A",
             "CellTextExternalActive": "9BE570"
         },
