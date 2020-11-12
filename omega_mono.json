@@ -121,8 +121,8 @@
             "SecondText": "000000"
         },
         "Home": {
-            "Background": "ffffff",
-            "CellBackground": "ffffff",
+            "Background": "212121",
+            "CellBackground": "212121",
             "CellBackgroundActive": "4a4a4a",
             "CellText": "000000",
             "CellTextActive": "ffffff",
